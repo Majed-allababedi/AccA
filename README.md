@@ -1,11 +1,10 @@
-# Advanced Charging Controller App (AccA)
+
 
 
 
 ---
 ## LEGAL
 
-Copyright (c) 2019, [MatteCarra](https://github.com/MatteCarra/), [VR25](https://github.com/VR-25/), [Squabbi](https://github.com/Squabbi/)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
